@@ -1,0 +1,7 @@
+export const LOAD_QUIZ = "LOAD_QUIZ";
+export const START_QUIZ = "START_QUIZ";
+export const SUBMIT_ANSWER = "SUBMIT_ANSWER";
+export const NEXT_QUESTION = "NEXT_QUESTION";
+export const QUESTION_TIMER_TICK = "QUESTION_TIMER_TICK";
+export const QUIZ_TIMER_TICK = "QUIZ_TIMER_TICK";
+export const FINISH_QUIZ = "FINISH_QUIZ";

@@ -1,0 +1,134 @@
+{
+  "0": {
+    "text": "A flashing red traffic light signifies that a driver should do what?",
+    "id": 0,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "stop" },
+      { "id": 1, "text": "speed up" },
+      { "id": 2, "text": "proceed with caution" },
+      { "id": 3, "text": "honk the horn" }
+    ],
+    "correctAnswer": 0
+  },
+  "1": {
+    "text": "A knish is traditionally stuffed with what filling?",
+    "id": 1,
+    "time": 10,
+    "answers": [
+      { "id": 0, "text": "potato" },
+      { "id": 1, "text": "creamed corn" },
+      { "id": 2, "text": "lemon custard" },
+      { "id": 3, "text": "raspberry jelly" }
+    ],
+    "correctAnswer": 0
+  },
+  "2": {
+    "text": "A pita is a type of what?",
+    "id": 2,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "fresh fruit" },
+      { "id": 1, "text": "flat bread" },
+      { "id": 2, "text": "French tart" },
+      { "id": 3, "text": "friend bean dip" }
+    ],
+    "correctAnswer": 1
+  },
+  "3": {
+    "text": "A portrait that comically exaggerates a person's physical traits is called a what?",
+    "id": 3,
+    "time": 20,
+    "answers": [
+      { "id": 0, "text": "landscape" },
+      { "id": 1, "text": "caricature" },
+      { "id": 2, "text": "still life" },
+      { "id": 3, "text": "Impressionism" }
+    ],
+    "correctAnswer": 1
+  },
+  "4": {
+    "text": "A second-year college student is usually called a what?",
+    "id": 4,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "sophomore" },
+      { "id": 1, "text": "senior" },
+      { "id": 2, "text": "freshman " },
+      { "id": 3, "text": "junior " }
+    ],
+    "correctAnswer": 0
+  },
+  "5": {
+    "text": "A student who earns a J.D. can begin his or her career as a what?",
+    "id": 5,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "lawyer" },
+      { "id": 1, "text": "bricklayer" },
+      { "id": 2, "text": "doctor" },
+      { "id": 3, "text": "accountant" }
+    ],
+    "correctAnswer": 0
+  },
+  "6": {
+    "text": "A triptych is a work of art that is painted on how many panels?",
+    "id": 6,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "two" },
+      { "id": 1, "text": "three" },
+      { "id": 2, "text": "five" },
+      { "id": 3, "text": "eight" }
+    ],
+    "correctAnswer": 1
+  },
+  "7": {
+    "text": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+    "id": 7,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "oneself" },
+      { "id": 1, "text": "other people" },
+      { "id": 2, "text": "little made large" },
+      { "id": 3, "text": "hued in green and blue" }
+    ],
+    "correctAnswer": 1
+  },
+  "8": {
+    "text": "According to a popular slogan, what state should people not 'mess with'?",
+    "id": 8,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "New York" },
+      { "id": 1, "text": "Texas" },
+      { "id": 2, "text": "Montana" },
+      { "id": 3, "text": "Rhode Island" }
+    ],
+    "correctAnswer": 1
+  },
+  "9": {
+    "text": "According to a Yale University study, what smell is the most recognizable to American adults?",
+    "id": 9,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "tuna" },
+      { "id": 1, "text": "laundry" },
+      { "id": 2, "text": "popcorn" },
+      { "id": 3, "text": "coffee" }
+    ],
+    "correctAnswer": 3
+  },
+  "10": {
+    "text": "According to folklore, the 'jackalope' is an antlered version of what animal?",
+    "id": 10,
+    "time": 15,
+    "answers": [
+      { "id": 0, "text": "chicken" },
+      { "id": 1, "text": "rabbit" },
+      { "id": 2, "text": "moose" },
+      { "id": 3, "text": "snake" }
+    ],
+    "correctAnswer": 1
+  }
+}
