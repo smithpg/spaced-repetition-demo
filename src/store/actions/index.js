@@ -15,8 +15,8 @@ export function startQuiz() {
 
 export function submitAnswer(answerId) {
   return {
-    type: actionTypes.LOAD_QUIZ,
-    payload: { answerId },
+    type: actionTypes.SUBMIT_ANSWER,
+    payload: answerId,
   };
 }
 
